@@ -11,7 +11,7 @@ def naive_search(l, target):
 
 
 
-#Binary search algorithm. Mcuh efficient when targetted list is sorted.
+#Binary search algorithm. Much efficient when targetted list is sorted.
 
 def binary_search(l, target, low = None, high = None):
     if low is None:
@@ -56,7 +56,7 @@ if __name__ == '__main__':
 
 #++EAJ++
 
-#Binary Search uses devide and conquer
+#Binary Search uses devide and conquer method
 
     
     
