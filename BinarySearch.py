@@ -39,6 +39,7 @@ if __name__ == '__main__':
     sorted_list = sorted(list(sorted_list))
 
 
+    # to measure the timee for both search algorithms to see which is better :)
     start = time.time()
     for target in sorted_list:
         naive_search(sorted_list, target)
